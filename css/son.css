@@ -1,0 +1,64 @@
+
+
+#orta {
+
+  width: 20%;
+
+  height: 100%;
+
+  background-color: transparent;
+
+    
+
+  position:absolute;
+
+  left: 25%;
+
+  top: 50%;
+
+  margin-left: -25px;
+
+  margin-top: -50px;
+
+}
+#ortas {
+
+    width: 20%;
+  
+    height: 100%;
+  
+    background-color: transparent;
+  
+      
+  
+    position:absolute;
+  
+    left:65%;
+  
+    top: 50%;
+  
+    margin-left: -55px;
+  
+    margin-top: -50px;
+  
+  }
+  .ana-btn{
+    width: 30%;
+    padding: 40px 30px;
+    font-size: 27px;
+    background-color: transparent;
+   
+    border-radius: 20px;
+    border:3px solid #eace44;
+
+  }
+  .kart{
+
+    border-radius: 20%;
+    border: 3px solid #eace44;
+  }
+  .kartt{
+  
+   
+    border: 5px solid #eace44;
+  }
